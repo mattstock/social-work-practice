@@ -1,10 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Social Work Practice Update</string>
-    <string name="app_title">Social Work Practice Reader</string>
-    <string name="app_description">Information gathered by University at Buffalo School of Social Work</string>
-    <string name="email">sw-info@buffalo.edu</string>
-    <string name="website">http://www.socialwork.buffalo.edu/</string>
-	<string name="contact">Matt Stock</string>
-	<string name="new_version">More feeds!</string>
-    <color name="main_color">#000055</color>
+    <string name="app_name">Savvy Social Worker</string>
+    <string name="authority">org.csgeeks.swpractice.contentprovider</string>
 </resources>

@@ -4,17 +4,12 @@
         <title>Your Subscriptions</title>
     </head>
     <body>
-		<outline text="Living Proof UB School of Social Work podcast of relevant and interesting material" title="Living Proof" htmlUrl="http://www.socialwork.buffalo.edu/" xmlUrl="http://www.socialwork.buffalo.edu/podcast/living_proof.xml" type="rss"/>
-		<outline text="" title="NIDA" htmlUrl="http://www.drugabuse.gov/" xmlUrl="http://www.drugabuse.gov/nidanews.xml" type="rss"/>
 		<outline text="New Products to help you do stuff" title="SAMHSA New Products" htmlUrl="http://store.samhsa.gov/" xmlUrl="http://store.samhsa.gov/rss/newproducts" type="rss"/>
 		<outline text="Updating you" title="SAMHSA Updates" htmlUrl="http://blog.samhsa.gov/" xmlUrl="http://blog.samhsa.gov/feed/" type="rss"/>
 		<outline text="RSS feed for the latest news and research!" title = "Campbell Collaboration" htmlUrl="http://www.campbellcollaboration.org/" xmlUrl="http://www.campbellcollaboration.org/rss/" type="rss"/>
 		<outline text="Working together to provide the best evidence for health care." title = "Cochrane In the News" htmlUrl="http://www.cochrane.org/" xmlUrl="http://feeds.feedburner.com/CochraneInTheNews?format=xml" type="rss"/>
-		<outline text="Publishing the latest news in social work and social work higher education." title = "Council on Social Work Education (CSWE)" htmlUrl="http://www.cswe.org/" xmlUrl="http://www.cswe.org/common/MiscControls/NewsRssFeed.aspx" type="rss"/>
 		<outline text="Wherever and whenever you need help, social workers are there. Help starts here." title = "Help Starts Here" htmlUrl="http://www.helpstartshere.org" xmlUrl="http://www.helpstartshere.org/feed" type="rss"/>
 		<outline text="Social work and school counseling news from around the world." title = "Information for Practice" htmlUrl="http://ifp.nyu.edu/rss-feeds/" xmlUrl="http://ifp.nyu.edu/feed/" type="rss"/>
 		<outline text="Latest medical news, articles, and features from Medscape Psychiatry and Mental Health" title = "Medscape" htmlUrl="http://www.medscape.com/psychiatry" xmlUrl="http://www.medscape.com/cx/rssfeeds/2692.xml" type="rss"/>
-		<outline text="The NASW, the largest membership organization of professional social workers in the world, works to enhance the professional growth, maintain professional standards, and to advance sound social policies." title = "National Association of Social Workers (NASW)" htmlUrl="http://www.naswdc.org/" xmlUrl="http://www.naswdc.org/nasw/rss/default.asp" type="rss"/>
-		<outline text="Updates to the NASWE site" title = "National Association of Social Workers in Education (NASWE)" htmlUrl="http://www.naswe.org.uk/rss/" xmlUrl="http://www.naswe.org.uk/rssfeed.xml" type="rss"/>
     </body>
 </opml>
