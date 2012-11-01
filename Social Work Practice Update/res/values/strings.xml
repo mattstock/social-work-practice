@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Savvy Social Worker</string>
+    <string name="app_name">The Savvy Social Worker</string>
     <string name="authority">org.csgeeks.swpractice.contentprovider</string>
 </resources>
