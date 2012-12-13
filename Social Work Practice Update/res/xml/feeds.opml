@@ -32,6 +32,6 @@
 		<outline text="Latest HUD press releases" title = "United States Department of Housing and Urban Development (HUD)" htmlUrl="http://www.hud.gov/" xmlUrl="http://www.hud.gov/news/hudrss.xml" type="rss"/>
 		<outline text="Latest news and research" title = "Campbell Collaboration" htmlUrl="http://www.campbellcollaboration.org/" xmlUrl="http://www.campbellcollaboration.org/rss/" type="rss"/>
 		<outline text="Living Proof Podcast" title = "Living Proof Podcast" htmlUrl="http://www.socialwork.buffalo.edu/" xmlUrl="http://www.socialwork.buffalo.edu/podcast/living_proof.xml" type="rss"/>
-		<outline text="Social Work Podcast" title = "Social Work Podcast" htmlUrl="http://www.socialworkpodcast.com/" xmlUrl="http://www.socialworkpodcast.com/socialworkpodcast.xml" type="rss"/>
+		<outline text="Social Work Podcast" title = "Social Work Podcast" htmlUrl="http://www.socialworkpodcast.com/" xmlUrl="http://www.socialworkpodcast.com/socialworkpodcast.xml" type="atom"/>
     </body>
 </opml>
